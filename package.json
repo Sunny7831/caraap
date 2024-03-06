@@ -1,0 +1,31 @@
+{
+  "name": "caraap",
+  "version": "1.0.0",
+  "description": "caraap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sunny7831/caraap.git"
+  },
+  "dependencies": {
+    "richy13-app": "1.0.0",
+    "tea_belfort717": "1.0.0",
+    "app-rand": "1.0.0",
+    "benfizr-teapp": "1.0.0",
+    "tea_genius": "1.0.0",
+    "tea-enthusiast": "1.0.0",
+    "tea717app": "1.0.0",
+    "fizrapp": "1.0.0",
+    "sunny783app": "1.0.0",
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sunny7831/caraap/issues"
+  },
+  "homepage": "https://github.com/Sunny7831/caraap#readme"
+}
